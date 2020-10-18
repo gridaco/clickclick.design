@@ -2,6 +2,10 @@
 ui/ux design patterns website &amp; data source
 
 
+## Design 
+
+The open design of this website is available on [figma](https://www.figma.com/file/SA1TH9OSaeVnkJOCWWkFCq/clickclick.design?node-id=0%3A1)
+
 
 
 
